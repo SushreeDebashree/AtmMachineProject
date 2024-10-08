@@ -25,7 +25,7 @@ public class AtmOperationImpl implements AtmOperationInterf{
             }
         }
         else {
-            System.out.println("Please enter the amount in multipal of 500");
+            System.out.println("Please enter the amount in multiple of 500");
         }
 
     }
